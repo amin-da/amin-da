@@ -4,5 +4,5 @@ I'm Amin,and I'm a FrontEnd Developer, I Really enjoy Learnign JavaScript And Re
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amin-da&show_icons=true&count_private=true&include_all_commits=true&theme=nightowl  " /></a>
 
-<img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=amin-da&layout=compact)](https://github.com/anuraghazra/github-readme-stats) " /></a>
+<img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) " /></a>
 
