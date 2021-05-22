@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Amin,and I'm a FrontEnd Developer, I Really enjoy Learnign JavaScript And React
+I'm Amin,and a FrontEnd Developer...
 
 <a padding='10px' href="https://github.com/amin-da">
 <img align="center" width='50%' src="https://github-readme-stats.vercel.app/api?username=amin-da&show_icons=true&count_private=true&include_all_commits=true&theme=nightowl"/></a>
