@@ -1,4 +1,4 @@
-# 💫 Hello world ! I'm non-stop learner.
+#  Hello world ! I'm non-stop learner.
 🔭 currently working on big idea
 
 
