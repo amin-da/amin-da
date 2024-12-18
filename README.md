@@ -1,5 +1,6 @@
 #  Hello world ! I'm non-stop learner.
-🔭 currently working on big idea
+🔭 currently working on big Company
+👨🏼‍🎓 studying JavaScript,CSS,React,Next,Node in depth
 
 
 # 💻 Tech Stack:
