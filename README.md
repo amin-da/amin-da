@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello world ! I'm non-stop learner.
 🔭 I’m currently working on big idea
 
 
